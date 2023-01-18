@@ -1,11 +1,13 @@
 # Data-challenge
 
-The inforgraphic is trying to tell us that we can not get any conclusion about gender inequality base on the wage gap. There are multiple reasons that caused the wage gap need to be considered. 
+The inforgraphic is trying to tell us that we can not get any conclusion about gender inequality base on the wage gap. There are multiple reasons that caused the wage gap need to be considered. Full visualization : https://github.com/EthanDuog/Data-challenge/blob/48e62107c1e906faa9d088399703d25206f48960/data%20challenge.pdf
 
 First of all, even having the free choice when it comes to choosing majors, women tend to choose human-related major that lead to lower-paying role later on. Nursing for example, this job is not scaleble easily compared to mechanic engineers or computer engineer (figure below). I believe the reason for this phenomenant is women tend to have more interest in people while men are more interested in things. This has to do with the way we are brought up in the society with the gendered expectations of parent of how to be a girl or boy. It also involve biological difference between men and women. It is still debatable but there are some experiment on newborn babies that indicated the gender differnces exist before we interact with society.
+
 ![image](https://user-images.githubusercontent.com/109555690/201960957-d0a157d5-aedf-46bb-ba97-fd7d4c5f487b.png)
 
 Secondly, men are more exposed to a detrimental working environment than women. Most of dangerous jobs are fullfilled by men such as police, outside constructor, electrician, detective. As getting injured while doing these jobs are more risky, they likely to pay more. Therefore, men tend to choose morr risky job than women, which lead them to gain higher pay. 
+
 ![image](https://user-images.githubusercontent.com/109555690/201961800-e28ae36d-b5a6-45cf-86de-bd1cabcd93ef.png)
 
 
